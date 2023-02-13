@@ -14,8 +14,9 @@ This is my personal config for Prettier code formatter library.
   npm install --save-dev --save-exact prettier @arfajarsetiaji/prettier-config
 ```
 
-3. Use it in your project
-a. If you don't need to override it, reference it in your package.json.
+3. Use it in your project.
+
+  - If you don't need to override it, just reference it in your package.json.
 
 ```json
 {
@@ -23,7 +24,8 @@ a. If you don't need to override it, reference it in your package.json.
   "prettier": "@arfajarsetiaji/prettier-config"
 }
 ```
-b. If you need to override it, spread import this config library in your .prettierrc.js file. Export the modifications, e.g modify the print width config:
+
+- If you need to override it, spread import this config library in your .prettierrc.js file & export the modifications, e.g modify the print width config:
 
 ```js
 module.exports = {
