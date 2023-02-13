@@ -15,7 +15,7 @@ This is my personal config for Prettier code formatter library.
 ```
 
 3. Use it in your project
-a. If you don't need to override it, reference it in your package.json
+a. If you don't need to override it, reference it in your package.json.
 
 ```json
 {
