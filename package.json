@@ -1,7 +1,7 @@
 {
   "name": "@arfajarsetiaji/prettier-config",
   "version": "2.0.1",
-  "description": "Ar Fajar Setiaji's prettier config.",
+  "description": "Ar Fajar Setiaji's Prettier config.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
