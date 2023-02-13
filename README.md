@@ -6,9 +6,9 @@ This is my personal config for Prettier code formatter library.
 [![NPM Library](https://img.shields.io/npm/v/@arfajarsetiaji/prettier-config?style=flat-square)](https://www.npmjs.com/package/@arfajarsetiaji/prettier-config)
 ## Installation and Usage
 
-1. Move into your project directory
+1. Move into your project directory.
 
-2. Install prettier & this prettier config library as development dependencies
+2. Install prettier & this prettier config library as development dependencies.
 
 ```bash
   npm install --save-dev --save-exact prettier @arfajarsetiaji/prettier-config
@@ -39,4 +39,3 @@ module.exports = {
 ## License
 
 [MIT](https://github.com/arfajarsetiaji/prettier-config/blob/main/LICENSE)
-
