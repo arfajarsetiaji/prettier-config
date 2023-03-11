@@ -2,7 +2,7 @@ module.exports = {
   $schema: "http://json.schemastore.org/prettierrc",
   printWidth: 80,
   tabWidth: 2,
-  useTabs: false,
+  useTabs: true,
   endOfLine: "lf",
   embeddedLanguageFormatting: "auto",
   singleQuote: false,
