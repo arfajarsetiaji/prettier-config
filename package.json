@@ -1,6 +1,6 @@
 {
   "name": "@arfajarsetiaji/prettier-config",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Ar Fajar Setiaji's Prettier config.",
   "main": "index.js",
   "scripts": {
