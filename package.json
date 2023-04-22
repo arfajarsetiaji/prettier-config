@@ -1,50 +1,51 @@
 {
-  "name": "@arfajarsetiaji/prettier-config",
-  "version": "2.1.0",
-  "description": "Ar Fajar Setiaji's Prettier config.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/arfajarsetiaji/prettier-config.git"
-  },
-  "keywords": [
-    "prettier",
-    "prettierconfig",
-    "html",
-    "handlebars",
-    "css",
-    "less",
-    "scss",
-    "javascript",
-    "ecmascript",
-    "typescript",
-    "flow",
-    "jsx",
-    "react",
-    "angular",
-    "vue",
-    "graphql",
-    "json",
-    "yaml",
-    "markdown",
-    "gfm",
-    "mdx"
-  ],
-  "author": "Ar Fajar Setiaji <arfajarsetiaji.id@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/arfajarsetiaji/prettier-config/issues"
-  },
-  "homepage": "https://github.com/arfajarsetiaji/prettier-config#readme",
-  "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "prettier": "^2.8.4"
-  },
-  "peerDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "prettier": "^2.8.4"
-  }
+	"name": "@arfajarsetiaji/prettier-config",
+	"version": "2.1.0",
+	"description": "Ar Fajar Setiaji's Prettier config.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arfajarsetiaji/prettier-config.git"
+	},
+	"keywords": [
+		"prettier",
+		"prettierconfig",
+		"html",
+		"handlebars",
+		"css",
+		"less",
+		"scss",
+		"javascript",
+		"ecmascript",
+		"typescript",
+		"flow",
+		"jsx",
+		"react",
+		"angular",
+		"vue",
+		"graphql",
+		"json",
+		"yaml",
+		"markdown",
+		"gfm",
+		"mdx"
+	],
+	"author": "Ar Fajar Setiaji <arfajarsetiaji.id@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/arfajarsetiaji/prettier-config/issues"
+	},
+	"homepage": "https://github.com/arfajarsetiaji/prettier-config#readme",
+	"devDependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
+		"prettier": "^2.8.4"
+	},
+	"peerDependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
+		"prettier": "^2.8.4"
+	},
+	"prettier": "./index.js"
 }
