@@ -41,11 +41,11 @@
 	"homepage": "https://github.com/arfajarsetiaji/prettier-config#readme",
 	"devDependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
-		"prettier": "^2.8.4"
+		"prettier": "^3.0.3"
 	},
 	"peerDependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
-		"prettier": "^2.8.4"
+		"prettier": "^3.0.3"
 	},
 	"prettier": "./index.js"
 }
