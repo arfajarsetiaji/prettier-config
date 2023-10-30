@@ -1,9 +1,9 @@
-
 # Ar Fajar Setiaji's Prettier Config
 
 This is my personal config for Prettier code formatter library.
 
 [![NPM Library](https://img.shields.io/npm/v/@arfajarsetiaji/prettier-config?style=flat-square)](https://www.npmjs.com/package/@arfajarsetiaji/prettier-config)
+
 ## Installation and Usage
 
 1. Move into your project directory.
@@ -11,12 +11,12 @@ This is my personal config for Prettier code formatter library.
 2. Install prettier, prettier-plugin-sort-imports & this prettier config library as development dependencies.
 
 ```bash
-  npm install --save-dev prettier @trivago/prettier-plugin-sort-imports @arfajarsetiaji/prettier-config
+  npm install --save-dev prettier @ianvs/prettier-plugin-sort-imports @arfajarsetiaji/prettier-config
 ```
 
 3. Use it in your project.
 
-  - If you don't need to override it, just reference it in your package.json.
+- If you don't need to override it, just reference it in your package.json.
 
 ```json
 {
@@ -29,14 +29,14 @@ This is my personal config for Prettier code formatter library.
 
 ```js
 module.exports = {
-  ...require("@arfajarsetiaji/prettier-config"),
-  printWidth: 120,
+	...require("@arfajarsetiaji/prettier-config"),
+	printWidth: 120,
 };
 ```
+
 ## Authors
 
 [@arfajarsetiaji](https://www.github.com/arfajarsetiaji)
-
 
 ## License
 
