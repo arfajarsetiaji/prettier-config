@@ -1,9 +1,8 @@
-name: Publish on main branch change
+name: Publish on publish release
 
 on:
-  push:
-    branches:
-      - main
+  release:
+    types: [published]
 
 jobs:
   publish:
