@@ -2,7 +2,7 @@
 
 This is my personal config for Prettier code formatter library.
 
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Farfajarsetiaji%2Fprettier-config%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/arfajarsetiaji/prettier-config/goto?ref=main)
+![Build Status](https://github.com/arfajarsetiaji/prettier-config/actions/workflows/publish.yml/badge.svg)
 [![NPM Library](https://img.shields.io/npm/v/@arfajarsetiaji/prettier-config?style=flat-square)](https://www.npmjs.com/package/@arfajarsetiaji/prettier-config)
 
 ## Installation and Usage
