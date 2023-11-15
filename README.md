@@ -2,8 +2,9 @@
 
 This is my personal config for Prettier code formatter library.
 
-![Build Status](https://github.com/arfajarsetiaji/prettier-config/actions/workflows/publish.yml/badge.svg)
-[![NPM Library](https://img.shields.io/npm/v/@arfajarsetiaji/prettier-config?style=flat-square)](https://www.npmjs.com/package/@arfajarsetiaji/prettier-config)
+[![Workflow Status](https://github.com/arfajarsetiaji/prettier-config/actions/workflows/publish.yml/badge.svg)](https://github.com/arfajarsetiaji/prettier-config/blob/main/.github/workflows/publish.yml)
+[![GitHub version](https://badge.fury.io/gh/arfajarsetiaji%2Fprettier-config.svg)](https://badge.fury.io/gh/arfajarsetiaji%2Fprettier-config)
+[![npm version](https://badge.fury.io/js/@arfajarsetiaji%2Fprettier-config.svg)](https://badge.fury.io/js/@arfajarsetiaji%2Fprettier-config)
 
 ## Installation and Usage
 
