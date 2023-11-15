@@ -1,4 +1,4 @@
-name: Publish on publish release
+name: Automated NPM Package Publishing on Release
 
 on:
   release:
