@@ -10,10 +10,10 @@ This is my personal config for Prettier code formatter library.
 
 1. Move into your project directory.
 
-2. Install prettier, prettier-plugin-sort-imports & this prettier config library as development dependencies.
+2. Install prettier, prettier-plugin-sort-imports, prettier prettier-plugin-packagejson & this prettier config library as development dependencies.
 
 ```bash
-  npm install --save-dev prettier @ianvs/prettier-plugin-sort-imports @arfajarsetiaji/prettier-config
+  npm install --save-dev prettier @ianvs/prettier-plugin-sort-imports prettier prettier-plugin-packagejson @arfajarsetiaji/prettier-config
 ```
 
 3. Use it in your project.
