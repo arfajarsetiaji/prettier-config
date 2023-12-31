@@ -1,4 +1,4 @@
-module.exports = {
+const overridableOptions = {
 	$schema: "http://json.schemastore.org/prettierrc",
 	printWidth: 80,
 	tabWidth: 2,
@@ -21,7 +21,14 @@ module.exports = {
 	insertPragma: false,
 	proseWrap: "preserve",
 	vueIndentScriptAndStyle: false,
-	plugins: ["@ianvs/prettier-plugin-sort-imports"],
+};
+
+const plugins = [
+	"@ianvs/prettier-plugin-sort-imports",
+	"prettier-plugin-packagejson",
+];
+
+const sortImportOptions = {
 	importOrder: [
 		"<TYPES>",
 		"<TYPES>^[.]",
@@ -47,4 +54,10 @@ module.exports = {
 	],
 	importOrderParserPlugins: ["typescript", "jsx"],
 	importOrderTypeScriptVersion: "5.0.0",
+};
+
+module.exports = {
+	...overridableOptions,
+	plugins: plugins,
+	...sortImportOptions,
 };
